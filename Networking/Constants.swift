@@ -1,8 +1,6 @@
 //
 //  Constants.swift
-//  MyWeather
-//
-//  Created by mac on 9/27/21.
+//  PROJECT_NAME_HERE
 //
 
 import Foundation
