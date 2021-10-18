@@ -21,7 +21,7 @@ protocol Endpoint: URLRequestConvertible {
 
 extension Endpoint {
     var baseURL: String {
-        return "http://api.weatherapi.com/v1/"
+        return "BASE_URL_HERE/"
     }
     
     var requestURL: URL {
@@ -31,7 +31,7 @@ extension Endpoint {
     var defaultHeaders: HTTPHeaders {
         var headers = HTTPHeaders()
         // headers.add(name: "Content-Type", value: "application/json")
-        //headers.add(name: "X-Auth-Token", value: "667ac0caf65341b1a023cd6f470d9c31")
+        // headers.add(name: "X-Auth-Token", value: "667ac0caf65341b1a023cd6f470d9c31")
         
         return headers
     }
