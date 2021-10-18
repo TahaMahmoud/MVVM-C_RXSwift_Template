@@ -1,8 +1,6 @@
 //
 //  NetworkManager.swift
-//  Football-League
-//
-//  Created by Ramzy on 14/07/2021.
+//  PROJECT_NAME_HERE
 //
 
 
